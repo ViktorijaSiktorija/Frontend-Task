@@ -7,3 +7,5 @@ there is a add item button that navigates to /post/create
 /post/:id/edit endpoint: when Text area and tags are clicked, input shows up for changing their values
 
 /post/crate endpoint
+
+Interface is mobile friendly when scaled to mobile proportions
